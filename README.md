@@ -157,7 +157,7 @@ This project demonstrates my ability to:
 
 📫 **Contact:**
 
-* LinkedIn: *[Your LinkedIn]*
+* LinkedIn: *[https://www.linkedin.com/in/gogo-harrison/]*
 * Email: *[gogoharrison66@gmail.com]*
 
 ---
