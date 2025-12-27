@@ -2,7 +2,7 @@
 
 **Portfolio Project | Data Analysis & Machine Learning**
 
-## 🔍 Project Summary
+## Project Summary
 
 This project analyzes how **building design choices** influence **heating and cooling energy demand** using the Energy Efficiency dataset.
 I applied **exploratory data analysis, predictive modeling, and explainability techniques** to quantify the impact of geometry and glazing on energy consumption.
@@ -15,7 +15,7 @@ The focus is on:
 
 ---
 
-## 🧠 Problem Statement
+## Problem Statement
 
 Energy consumption in buildings is strongly affected by architectural design.
 This project answers:
